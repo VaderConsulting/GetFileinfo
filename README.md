@@ -1,6 +1,6 @@
 # GetFileinfo
 
-VB6 working copy of `GetFileinfo` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Ge tFileinfo. Output: `GetFileInfo.exe`. `VersionCompanyName`: TUSK Technologies.
+2001 Dave Robinson / TUSK Technologies VB6 File Finder (`GetFileInfo.exe`, product Get Fileinfo). Scans local/network paths, shows version resource FileInfo in a rich-text pane, and exports all-apps or corporate-apps lists (CSV/HTML). Tabs: All files, FileInfo, All Applications, Corporate Applications. Copyright (c) 2001 D. Robinson & TUSK Technologies.
 
 **Source last updated:** 2001-06-01 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
